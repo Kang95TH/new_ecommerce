@@ -9,11 +9,9 @@
 
 ```
 # Clone Repository
-<!-- $ git clone https://github.com/goleedev/nextjs-ecommerce -->
-$ git clone https://github.com/
+$ git clone https://github.com/Kang95TH/new_ecommerce.git
 
 # Move to Repository
-<!-- $ cd new_ecommerce -->
 $ cd new_ecommerce
 
 # Install Dependencies
