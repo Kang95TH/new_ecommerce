@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "product": "뉴발란스 men",
+    "category": "men",
+    "price": 99000,
+    "freeShipping": true,
+    "src": "/new_574_black.jpeg"
+  },
+  {
+    "id": 2,
+    "product": "뉴발란스 women",
+    "category": "women",
+    "price": 99000,
+    "freeShipping": true,
+    "src": "/new_574_navy.jpeg"
+  },
+  {
+    "id": 3,
+    "product": "뉴발란스 574 그레이",
+    "category": "kids",
+    "price": 1000,
+    "freeShipping": true,
+    "src": "/new_574_gray.jpeg"
+  },
+  {
+    "id": 4,
+    "product": "뉴발란스 574 아이보리",
+    "category": "kids",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/new_574_ivory.jpeg"
+  },
+  {
+    "id": 5,
+    "product": "뉴발란스 574 오렌지",
+    "category": "kids",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/new_574_orange.jpeg"
+  },
+  {
+    "id": 6,
+    "product": "뉴발란스 574 레드",
+    "category": "kids",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/new_574_red.jpeg"
+  },
+  {
+    "id": 7,
+    "product": "뉴발란스 574 블랙",
+    "category": "kids",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/new_574_black.jpeg"
+  },
+  {
+    "id": 8,
+    "product": "뉴발란스 574 네이비",
+    "category": "kids",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/new_574_navy.jpeg"
+  },
+  {
+    "id": 9,
+    "product": "신상 발매 뉴발란스 574",
+    "category": "new_releases",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/new_574_navy.jpeg"
+  },
+  {
+    "id": 10,
+    "product": "뉴발란스 574 네이비",
+    "category": "kids",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/new_574_navy.jpeg"
+  },
+  {
+    "id": 11,
+    "product": "인테리어용 선반",
+    "category": "interior",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/interior_frame.jpeg"
+  },
+  {
+    "id": 12,
+    "product": "인테리어용 테이블",
+    "category": "interior",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/interior_table.jpeg"
+  },
+  {
+    "id": 13,
+    "product": "애플워치 8 에르메스 에디션",
+    "category": "digital",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/digital_watch.jpeg"
+  },
+  {
+    "id": 14,
+    "product": "조말론 잉글리쉬 페어 앤 프리지아",
+    "category": "beauty",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/beauty_perfume.jpeg"
+  },
+  {
+    "id": 15,
+    "product": "인테리어용 조명",
+    "category": "interior",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/interior_lamp.jpeg"
+  },
+  {
+    "id": 16,
+    "product": "인테리어용 의자",
+    "category": "interior",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/interior_chair.jpeg"
+  },
+  {
+    "id": 17,
+    "product": "인테리어용 서랍",
+    "category": "interior",
+    "price": 100000,
+    "freeShipping": true,
+    "src": "/interior_drawer.webp"
+  }
+]
